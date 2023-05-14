@@ -4,7 +4,19 @@
 
 ⭐️ 50+ bots opensouce<br>
 🌱 Bots en JavaScript<br>
-⚡ 900+ membres sur NovaWorld
+⚡ 900+ membres sur NovaWorld<br>
+
+## Owners/developpeurs Discord 💻
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/276705058370879489)](https://discord.com/users/276705058370879489)
+[![Discord Presence](https://lanyard.cnrad.dev/api/820361590826205215)](https://discord.com/users/820361590826205215)
+
+
+
+
+
+
+
 
 
 
