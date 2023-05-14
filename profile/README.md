@@ -20,7 +20,7 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![QuickDb](https://img.shields.io/badge/-quick.db-orange)
+![QuickDb](https://img.shields.io/badge/quick.db-%4300f.svg?style=for-the-badge&logo=database&logoColor=white)
 
 ## Serveur Discord 💫
 
