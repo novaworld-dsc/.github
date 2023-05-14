@@ -1,8 +1,6 @@
 ## Salut 👋
 
-
-
-**Here are some ideas to get you started:**
+**Voici la team officiel de NovaWorld. NovaWorld est un serveur Discord qui propose des bots opensouce en JavaScript GRATUITEMENT ! Ici vous pourrez trouver tout ces bots ^^.**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
