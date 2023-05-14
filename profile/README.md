@@ -21,18 +21,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Stats Github 📊
-<br>
-
-<div align="center">
-
-<a href="https://github.com/novaworld-dsc/">
-  <img src="https://github-readme-stats.vercel.app/api?username=novaworld-dsc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novaworld-dsc&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="novaworld-dsc"/>
-
-![](https://komarev.com/ghpvc/?username=novaworld-dsc&label=PROFILE+VIEWS)
-</a>
-</div>
+## Serveur Discord 💫
 
 [![DiscordBanner](https://invidget.switchblade.xyz/novaworld)](https://discord.gg/novaworld)
 
