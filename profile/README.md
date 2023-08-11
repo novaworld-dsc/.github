@@ -24,21 +24,4 @@
 
 ## Serveur Discord 💫
 
-[![DiscordBanner](https://invidget.switchblade.xyz/novaworld)](https://discord.gg/novaworld)
-
-
-## Owners/developpeurs Discord 💻
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/276705058370879489)](https://discord.com/users/276705058370879489)
-[![Discord Presence](https://lanyard.cnrad.dev/api/820361590826205215)](https://discord.com/users/820361590826205215)
-
-
-
-
-
-
-
-
-
-
-
+[![DiscordBanner](https://invidget.switchblade.xyz/novaworld)](https://discord.gg/6gzA7883b2)
